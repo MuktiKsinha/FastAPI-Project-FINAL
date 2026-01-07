@@ -14,6 +14,8 @@ The project demonstrates **end-to-end ML deployment**, including **authenticatio
 
 🎥 Demo Video
 
+[![Car Price Prediction API Demo](assets/demo.png)](https://www.youtube.com/watch?v=DlrKNex7MGM)
+
 ▶️ Click the image above to watch a 4-minute walkthrough of the API, covering predictions, authentication, Redis caching, and monitoring with Prometheus & Grafana.
 
 ## 📦 Project Features
