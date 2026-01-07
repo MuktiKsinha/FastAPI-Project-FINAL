@@ -12,6 +12,10 @@ The project demonstrates **end-to-end ML deployment**, including **authenticatio
 
 ---
 
+🎥 Demo Video
+
+▶️ Click the image above to watch a 4-minute walkthrough of the API, covering predictions, authentication, Redis caching, and monitoring with Prometheus & Grafana.
+
 ## 📦 Project Features
 
 - 🔐 **Authentication**: JWT-based token auth and API key validation
