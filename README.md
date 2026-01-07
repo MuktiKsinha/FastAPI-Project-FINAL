@@ -1,5 +1,12 @@
 # 🚗 Car Price Prediction API
 
+[![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.95-green?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-20.10-blue?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Redis](https://img.shields.io/badge/Redis-7.0-orange?logo=redis&logoColor=white)](https://redis.io/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-2.44-orange?logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-10.5-orange?logo=grafana&logoColor=white)](https://grafana.com/)
+
 A **Machine Learning–powered REST API** built with **FastAPI** to predict the selling price of used cars based on their specifications.  
 The project demonstrates **end-to-end ML deployment**, including **authentication**, **caching**, **monitoring**, **containerization**, and **cloud readiness**.
 
