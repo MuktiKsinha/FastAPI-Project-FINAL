@@ -65,7 +65,7 @@ docker-compose up --build
 - FastAPI Docs: http://localhost:8000/docs
 - FastAPI Metrics: http://localhost:8000/metrics
 - Prometheus UI: http://localhost:9090
-- Grafana UI: http://localhost:3000
+- Grafana UI: http://localhost:3001
 
 ---
 
